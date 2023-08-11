@@ -1,0 +1,16 @@
+{
+    "name": "communityid",
+    "author": "Christian Kreibich <christian@corelight.com>",
+    "license": "BSD-3-Clause",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/corelight/communityid-js"
+    },
+    "scripts": {
+        "test": "node --test"
+    },
+    "bin": {
+        "community-id": "./cli.js"
+    },
+    "version": "1.0.0"
+}
